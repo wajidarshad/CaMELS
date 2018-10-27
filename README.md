@@ -7,4 +7,4 @@ Due to Ca2+‐dependent binding and the sequence diversity of Calmodulin (CaM) b
 2- Propy (https://code.google.com/archive/p/protpy/downloads)
 
 # Usage
-run 'main_runner.py' by changing 'example.fasta' at line no. 29 with path of your own fasta file
+run 'main_runner.py' by changing 'example.fasta' at line no. 27 with path of your own fasta file
