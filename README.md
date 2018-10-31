@@ -10,3 +10,5 @@ Due to Ca2+‐dependent binding and the sequence diversity of Calmodulin (CaM) b
 run 'main_runner.py' by changing 'example.fasta' at line no. 12 with path of your own fasta file
 # Citation details
 W. A. Abbasi, A. Asif, S. Andleeb, and F. U. A. A. Minhas, “CaMELS: In silico prediction of calmodulin binding proteins and their binding sites,” Proteins, vol. 85, no. 9, pp. 1724–1740, Sep. 2017.
+# Webserver
+CaMELS webserver is vailable at https://camels.pythonanywhere.com/.
